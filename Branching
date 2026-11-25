@@ -1,0 +1,6 @@
+git checkout main && git pull origin main
+git checkout -b feature/inverter-api-adapter
+git add .
+git commit -m "feat(telemetry): add inverter API client and schema validation"
+git commit -m "feat(telemetry): implement retry with backoff and unit tests"
+git push -u origin feature/inverter-api-adapter
