@@ -1,0 +1,3 @@
+git add .
+git commit -m "ECOGRID-2 #in-progress #time 1h 20m #comment Додано базові інженерні класи"
+git push -u origin feature/ECOGRID-2-battery-status
