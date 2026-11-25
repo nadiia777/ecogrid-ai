@@ -1,0 +1,21 @@
+# Локальні конфігурації та секрети
+.env
+.env.*
+*.local
+
+# Залежності та кеш середовищ
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.gradle/
+build/
+dist/
+
+# Системні файли та артефакти IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
